@@ -1,0 +1,8 @@
+{
+  "device_automation": {
+    "action_type": {
+      "display_gif": "Display GIF",
+      "stop_gif_rotation": "Stop GIF rotation"
+    }
+  }
+}
